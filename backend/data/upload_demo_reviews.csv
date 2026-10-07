@@ -1,0 +1,101 @@
+review_id,review_text,rating,date,app_version,platform
+DEMO-001,"Payment was deducted from my bank but the order failed and shows nothing in order history.",1,2026-03-01,2.4.1,iOS
+DEMO-002,"Checkout keeps failing every time I enter credit card details. Total blocker!",1,2026-03-02,2.4.1,Android
+DEMO-003,"Money was deducted twice for a single subscription payment. Please refund immediately.",1,2026-03-03,2.4.1,iOS
+DEMO-004,"App crashes immediately upon launch after the latest 2.4.2 update on my iPhone 15.",1,2026-03-04,2.4.2,iOS
+DEMO-005,"App keeps crashing on the splash screen. Cannot even open it anymore.",1,2026-03-05,2.4.2,iOS
+DEMO-006,"Sudden crash whenever I tap on the account settings tab.",1,2026-03-06,2.4.2,Android
+DEMO-007,"Login with Google authentication throws error code 500 continuously.",1,2026-03-01,2.4.0,Android
+DEMO-008,"Cannot log in. It keeps telling me invalid session even right after resetting password.",1,2026-03-02,2.4.0,iOS
+DEMO-009,"Two factor authentication code SMS never arrives. Locked out of my account for two days.",1,2026-03-03,2.4.0,Android
+DEMO-010,"App is ridiculously slow. Takes 15 seconds to load the home feed on 5G.",2,2026-03-01,2.4.1,iOS
+DEMO-011,"Extreme lag when scrolling through product listings. Very jerky animations.",2,2026-03-03,2.4.1,Android
+DEMO-012,"Searching for items returns completely irrelevant results or loads forever.",2,2026-03-02,2.4.1,iOS
+DEMO-013,"Search bar autocomplete is broken and filters do not apply properly.",2,2026-03-04,2.4.1,Android
+DEMO-014,"Getting 10 spam notifications a day even though I disabled push notifications in settings.",1,2026-03-01,2.4.0,Android
+DEMO-015,"Push notifications arrive 4 hours late. Missed a time-sensitive delivery update.",2,2026-03-02,2.4.0,iOS
+DEMO-016,"Customer support chatbot is useless and there is no way to talk to a human agent.",1,2026-03-05,2.4.1,iOS
+DEMO-017,"Support ticket submitted 6 days ago still has zero response. Unacceptable service.",1,2026-03-06,2.4.1,Android
+DEMO-018,"I cancelled my subscription last month but you still charged my card this morning.",1,2026-03-07,2.4.2,iOS
+DEMO-019,"Hidden recurring fees and subscription cancellation button is hidden deep in menus.",1,2026-03-08,2.4.2,Android
+DEMO-020,"The new UI redesign looks terrible. Fonts are too small and navigation is confusing.",2,2026-03-05,2.4.2,iOS
+DEMO-021,"Dark mode contrast is unreadable and text blends into the background.",2,2026-03-06,2.4.2,Android
+DEMO-022,"Smooth payment experience with Apple Pay. Fast and seamless checkout.",5,2026-03-01,2.4.0,iOS
+DEMO-023,"Love the clean interface and intuitive gestures. Best app in this category!",5,2026-03-02,2.4.0,iOS
+DEMO-024,"Very reliable and fast performance. Syncs across all my devices without issues.",5,2026-03-03,2.4.0,Android
+DEMO-025,"Customer support rep Sarah resolved my billing query within 5 minutes. Amazing support!",5,2026-03-04,2.4.1,iOS
+DEMO-026,"Search is blazingly fast and finds exactly what I need every single time.",5,2026-03-05,2.4.1,iOS
+DEMO-027,"The new update looks clean, though took a day to get used to the new layout.",4,2026-03-06,2.4.2,Android
+DEMO-028,"Decent app, does the job. Would appreciate more widget options.",3,2026-03-07,2.4.2,iOS
+DEMO-029,"Average experience. Nothing extraordinary but works when needed.",3,2026-03-07,2.4.2,Android
+DEMO-030,"Payment gateway timed out during transaction. Bank deducted amount but app said failed.",1,2026-03-10,2.4.2,iOS
+DEMO-031,"Payment failure again! Tried 3 different cards and UPI, all declined with vague error.",1,2026-03-11,2.4.2,Android
+DEMO-032,"Double charged for an annual plan. Still waiting for refund processing.",1,2026-03-12,2.4.2,iOS
+DEMO-033,"Checkout screen froze at processing payment. Had to force close and lost order items.",1,2026-03-13,2.4.2,Android
+DEMO-034,"Card declined constantly on checkout page despite having sufficient balance.",1,2026-03-14,2.4.2,iOS
+DEMO-035,"Payment failed error message gives no detail. Lost my discount coupon in the process!",1,2026-03-15,2.4.2,Android
+DEMO-036,"Frequent app crashes when opening camera for QR code scanner.",1,2026-03-08,2.4.2,iOS
+DEMO-037,"Crash on launch every time I reboot my phone. Reinstalling did not fix it.",1,2026-03-09,2.4.2,Android
+DEMO-038,"App freezes and crashes to home screen whenever I try to attach a PDF document.",1,2026-03-11,2.4.2,iOS
+DEMO-039,"Constant crashes after 30 seconds of browsing. Memory leak?",1,2026-03-12,2.4.2,Android
+DEMO-040,"App closed unexpectedly while I was typing a long review. So frustrating!",1,2026-03-14,2.4.2,iOS
+DEMO-041,"Biometric FaceID login fails 90% of the time, forcing manual password entry.",2,2026-03-05,2.4.1,iOS
+DEMO-042,"Password reset link sent to email expired instantly or redirects to dead link.",1,2026-03-07,2.4.1,Android
+DEMO-043,"Fingerprint login button unresponsive on Pixel 8.",2,2026-03-09,2.4.2,Android
+DEMO-044,"Logged out automatically every 10 minutes. Why can not it remember my login session?",1,2026-03-12,2.4.2,iOS
+DEMO-045,"Battery drain is insane. App consumes 40% battery in 20 minutes in background.",1,2026-03-08,2.4.2,iOS
+DEMO-046,"Phone heats up like a toaster whenever this app is open. Terrible performance optimization.",1,2026-03-10,2.4.2,Android
+DEMO-047,"Extremely sluggish responsiveness when typing in the search bar.",2,2026-03-12,2.4.2,iOS
+DEMO-048,"Loading spinner spins endlessly when opening product specifications page.",2,2026-03-14,2.4.2,Android
+DEMO-049,"Search query results return zero items even for common keywords like shoes and shirts.",1,2026-03-08,2.4.2,iOS
+DEMO-050,"Search algorithm downgrade: sorting by price or rating does not work at all.",2,2026-03-10,2.4.2,Android
+DEMO-051,"Cannot search by brand or category anymore. Very disappointing regression.",2,2026-03-13,2.4.2,iOS
+DEMO-052,"Bombarded with promotional notifications every 2 hours. Opt-out setting is ignored.",1,2026-03-09,2.4.2,Android
+DEMO-053,"Unwanted push notifications keep waking me up at 3 AM. Fix notification settings!",1,2026-03-11,2.4.2,iOS
+DEMO-054,"Order status push notification never triggered. Driver was waiting outside with no alert.",2,2026-03-13,2.4.2,Android
+DEMO-055,"Customer support email bounced back. No phone number or live chat available.",1,2026-03-10,2.4.2,iOS
+DEMO-056,"Agent closed my support ticket without resolving the issue or replying to my question.",1,2026-03-12,2.4.2,Android
+DEMO-057,"Help section FAQ links are broken and return 404 page not found.",2,2026-03-14,2.4.2,iOS
+DEMO-058,"Subscribed to premium trial and was billed full annual price on day one without notice!",1,2026-03-11,2.4.2,iOS
+DEMO-059,"No option to manage or cancel subscription inside the app. Forcing people to call billing.",1,2026-03-13,2.4.2,Android
+DEMO-060,"Subscription perks are not activated even after receipt was validated.",1,2026-03-15,2.4.2,iOS
+DEMO-061,"The bottom navigation bar overlaps with phone home gesture bar. Poor UI testing.",2,2026-03-08,2.4.2,iOS
+DEMO-062,"Buttons are too small to tap accurately. Constantly clicking wrong menu items.",2,2026-03-11,2.4.2,Android
+DEMO-063,"Checkout button is obscured by keyboard and cannot be scrolled into view.",1,2026-03-14,2.4.2,iOS
+DEMO-064,"Great experience so far! The latest update fixed previous login glitches.",5,2026-03-08,2.4.2,iOS
+DEMO-065,"Super convenient application. Has saved me hours of shopping every week.",5,2026-03-09,2.4.2,Android
+DEMO-066,"Flawless payment with credit card. Instant confirmation and tracking.",5,2026-03-10,2.4.2,iOS
+DEMO-067,"Fast load times and clean UI design. Kudos to the development team!",5,2026-03-11,2.4.2,Android
+DEMO-068,"Customer service was empathetic and refunded my duplicate charge within hours.",5,2026-03-12,2.4.2,iOS
+DEMO-069,"Search filters are crisp and accurate. Found the exact model I wanted.",5,2026-03-13,2.4.2,Android
+DEMO-070,"Good app, works fine. A few minor cosmetic bugs but nothing critical.",4,2026-03-14,2.4.2,iOS
+DEMO-071,"Solid 4 stars. Would be 5 stars if dark mode was AMOLED black instead of gray.",4,2026-03-15,2.4.2,Android
+DEMO-072,"Payment failed 4 times in a row today. My bank says merchant declined.",1,2026-03-16,2.4.2,iOS
+DEMO-073,"Payment gateway error: transaction pending for 24 hours. Where is my money?",1,2026-03-16,2.4.2,Android
+DEMO-074,"Cannot complete payment with debit card or PayPal. Error 402 payment required.",1,2026-03-17,2.4.2,iOS
+DEMO-075,"Another checkout payment crash. Lost my cart items for the second time today.",1,2026-03-17,2.4.2,Android
+DEMO-076,"Payment deducted but order status says cancelled. Extremely angry with this app.",1,2026-03-18,2.4.2,iOS
+DEMO-077,"Instant crash when clicking the profile icon. Broken since yesterday.",1,2026-03-16,2.4.2,Android
+DEMO-078,"Crash on startup continues after reinstalling twice on Samsung Galaxy S23.",1,2026-03-17,2.4.2,Android
+DEMO-079,"App crashes whenever I swipe between photos on product detail view.",1,2026-03-18,2.4.2,iOS
+DEMO-080,"Crash report sent. Cannot open cart without application shutting down.",1,2026-03-18,2.4.2,Android
+DEMO-081,"Cannot login with email or phone number. Verification code says expired immediately.",1,2026-03-16,2.4.2,iOS
+DEMO-082,"OAuth Google login redirects to blank white page. Completely stuck.",1,2026-03-17,2.4.2,Android
+DEMO-083,"App freezes during search and requires hard reset of phone.",1,2026-03-16,2.4.2,iOS
+DEMO-084,"Search indexing feels broken. Common keywords yield zero results.",2,2026-03-17,2.4.2,Android
+DEMO-085,"Continuous notification sound playing in background without displaying any message.",1,2026-03-16,2.4.2,iOS
+DEMO-086,"Support ticket auto-closed with robotic template response. Worst customer support ever.",1,2026-03-17,2.4.2,Android
+DEMO-087,"Charged 3 times for annual membership. Bank dispute opened.",1,2026-03-16,2.4.2,iOS
+DEMO-088,"Cancellation button greyed out on subscription management page. Deceptive pattern!",1,2026-03-18,2.4.2,Android
+DEMO-089,"UI elements overlap each other in landscape mode on tablet.",2,2026-03-16,2.4.2,iOS
+DEMO-090,"Text truncation everywhere. Descriptions cut off mid-sentence with no expand button.",2,2026-03-17,2.4.2,Android
+DEMO-091,"Really smooth and responsive. Daily user and loving the speed upgrades.",5,2026-03-16,2.4.2,iOS
+DEMO-092,"Checkout was super quick with Apple Pay. Order arrived on time.",5,2026-03-17,2.4.2,iOS
+DEMO-093,"Helpful customer representative helped me track down an unfulfilled package.",5,2026-03-17,2.4.2,Android
+DEMO-094,"Great product catalogue and filters make finding items effortless.",5,2026-03-18,2.4.2,iOS
+DEMO-095,"Decent application, reliable enough for everyday use.",3,2026-03-18,2.4.2,Android
+DEMO-096,"Payment failure on checkout again. Money debited from checking account without order confirmation.",1,2026-03-18,2.4.2,iOS
+DEMO-097,"Payment transaction timed out and checkout screen became completely unresponsive.",1,2026-03-18,2.4.2,Android
+DEMO-098,"Payment error code 1042 on every credit card attempted today. Please fix your payment system!",1,2026-03-18,2.4.2,iOS
+DEMO-099,"App crashed while processing payment. Do not know if I was charged or not!",1,2026-03-18,2.4.2,Android
+DEMO-100,"Excellent app overall, but please fix the recent payment glitches quickly.",3,2026-03-18,2.4.2,iOS

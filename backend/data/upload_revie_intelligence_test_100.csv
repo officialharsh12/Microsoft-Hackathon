@@ -1,0 +1,101 @@
+review_id,review_text,review_date,rating,platform,country,app_version,customer_type,issue_hint,language
+REV-0001,The app is fast and easy to use.,2026-09-16,5.0,Android,,4.0,Trial,performance,English
+REV-0002,The features are similar to other apps I have used.,2026-09-28,3.0,Android,India,4.0,Free,general,English
+REV-0003,The app crashes every time I open the payment screen.,2026-09-27,2.0,Android,Canada,4.3,Premium,ui,English
+REV-0004,The app is okay but there are a few things that could improve.,2026-09-22,3.0,iOS,USA,4.1,Premium,support,English
+REV-0005,Checkout is broken and my order cannot be completed.,2026-09-23,1.0,Web,UK,4.0,Trial,checkout,English
+REV-0006,"Love the new interface, everything feels much smoother.",2026-09-24,5.0,Web,USA,4.0,Free,payment,English
+REV-0007,The latest update made the app much better.,2026-09-07,4.0,iOS,UK,4.2,Trial,login,English
+REV-0008,I have been using the app for a few weeks.,2026-09-14,3.0,Web,UK,4.0,Trial,checkout,English
+REV-0009,Customer support solved my problem quickly.,2026-09-25,4.0,,Australia,4.1,Trial,upload,English
+REV-0010,The app crashes every time I open the payment screen.,2026-09-26,2.0,iOS,India,4.1,Trial,payment,English
+REV-0011,The latest version has a different interface.,2026-09-26,3.0,Web,Canada,4.1,Premium,upload,English
+REV-0012,The app freezes on the splash screen and then closes.,2026-09-26,3.0,iOS,USA,4.1,Trial,general,English
+REV-0013,The app is fast and easy to use.,2026-09-28,4.0,Web,India,4.2,Premium,crash,English
+REV-0014,"Great experience overall, very reliable app.",2026-09-01,5.0,Web,India,4.3,Premium,performance,English
+REV-0015,The latest version has a different interface.,2026-09-28,3.0,Android,Canada,4.0,Trial,performance,English
+REV-0016,The latest version has a different interface.,2026-09-07,4.0,Web,UK,4.3,Trial,crash,English
+REV-0017,Customer support has not replied to my complaint.,2026-10-04,2.0,Android,Australia,4.2,Premium,ui,English
+REV-0018,Customer support has not replied to my complaint.,2026-09-04,2.0,,Australia,4.0,Free,login,English
+REV-0019,The application closes immediately after opening.,2026-09-17,,Web,Australia,4.2,Free,crash,English
+REV-0020,I installed the application last month.,2026-09-20,4.0,iOS,UK,4.2,,login,English
+REV-0021,Payment is stuck and the order was not completed.,2026-09-15,1.0,Android,India,4.0,Free,payment,English
+REV-0022,The app crashes every time I open the payment screen.,2026-09-18,2.0,Web,Canada,4.1,Trial,payment,English
+REV-0023,The app shows an error whenever I try to upload a file.,2026-09-27,2.0,Android,India,4.0,Trial,upload,English
+REV-0024,Login worked instantly and I had no issues.,2026-09-04,5.0,Web,India,4.0,Premium,upload,English
+REV-0025,The app is okay but there are a few things that could improve.,2026-09-13,,Web,Canada,4.1,Premium,,English
+REV-0026,Payment is stuck and the order was not completed.,2026-09-04,1.0,Web,Australia,4.0,Free,payment,English
+REV-0027,I have been using the app for a few weeks.,2026-10-02,3.0,iOS,USA,4.2,Free,support,English
+REV-0028,The app crashes every time I open the payment screen.,2026-09-30,3.0,iOS,Canada,4.3,Trial,performance,English
+REV-0029,Checkout was quick and payment worked perfectly.,2026-09-14,4.0,Android,Australia,4.3,Free,performance,English
+REV-0030,The app is okay but there are a few things that could improve.,2026-10-01,3.0,Web,Australia,4.1,Free,general,English
+REV-0031,The app is okay but there are a few things that could improve.,2026-09-16,3.0,iOS,India,4.3,Free,payment,English
+REV-0032,Payment is stuck and the order was not completed.,,2.0,Android,UK,4.1,Premium,payment,English
+REV-0033,The app freezes on the splash screen and then closes.,2026-09-05,3.0,Android,Canada,4.3,Trial,checkout,English
+REV-0034,The app is okay but there are a few things that could improve.,2026-10-03,4.0,iOS,USA,4.2,Free,login,English
+REV-0035,The app crashes whenever I open checkout.,,2.0,Android,,4.2,Trial,crash,English
+REV-0036,The latest update made the app extremely slow.,2026-09-10,2.0,,UK,4.3,Free,payment,English
+REV-0037,Customer support solved my problem quickly.,2026-10-03,5.0,iOS,,4.0,Free,performance,English
+REV-0038,Payment failed twice and I could not finish checkout.,,2.0,Web,Canada,4.3,Trial,payment,English
+REV-0039,The app is fast and easy to use.,2026-09-10,4.0,Web,India,,Trial,payment,English
+REV-0040,Payment failed twice and I could not finish checkout.,2026-09-14,2.0,Web,USA,4.0,Premium,payment,English
+REV-0041,I use the app mainly for checking my orders.,2026-09-16,4.0,Android,USA,4.2,Free,crash,English
+REV-0042,Customer support has not replied to my complaint.,2026-09-18,3.0,Android,India,4.2,Free,,English
+REV-0043,I have been using the app for a few weeks.,2026-09-23,3.0,iOS,USA,4.1,Free,,English
+REV-0044,Login worked instantly and I had no issues.,2026-09-05,5.0,iOS,,4.3,Premium,performance,English
+REV-0045,I really like the clean design and simple navigation.,2026-09-17,4.0,Android,Australia,4.2,,payment,English
+REV-0046,Checkout is broken and my order cannot be completed.,2026-09-28,2.0,Web,Australia,4.0,Premium,checkout,English
+REV-0047,I have been using the app for a few weeks.,2026-09-01,3.0,Web,Australia,4.1,Premium,payment,English
+REV-0048,I really like the clean design and simple navigation.,2026-09-08,5.0,Web,UK,4.3,Premium,checkout,English
+REV-0049,I really like the clean design and simple navigation.,2026-09-09,5.0,Android,Canada,4.2,Trial,,English
+REV-0050,I have been using the app for a few weeks.,2026-09-20,,iOS,Australia,4.0,Premium,general,English
+REV-0051,Checkout is broken and my order cannot be completed.,2026-09-29,2.0,iOS,USA,4.3,Premium,upload,English
+REV-0052,Payment is stuck and the order was not completed.,2026-09-06,2.0,Android,UK,4.1,Free,payment,English
+REV-0053,The app crashes every time I open the payment screen.,2026-09-05,2.0,iOS,Canada,4.3,Free,upload,English
+REV-0054,Login worked instantly and I had no issues.,,5.0,,India,4.0,Premium,support,English
+REV-0055,The app shows an error whenever I try to upload a file.,2026-09-16,1.0,Android,Canada,4.1,Premium,ui,English
+REV-0056,I really like the clean design and simple navigation.,2026-10-03,5.0,iOS,Australia,4.2,Free,general,English
+REV-0057,I use the app mainly for checking my orders.,2026-09-16,3.0,Web,UK,4.3,Premium,performance,English
+REV-0058,The latest update made the app much better.,2026-09-16,5.0,iOS,UK,4.2,,payment,English
+REV-0059,The latest update made the app extremely slow.,2026-09-10,,Web,USA,4.0,Premium,,English
+REV-0060,My card payment keeps failing in the app.,2026-09-02,2.0,Web,Canada,4.2,Free,payment,English
+REV-0061,The latest version has a different interface.,,3.0,Web,Australia,4.3,Free,support,English
+REV-0062,The latest update made the app much better.,,5.0,iOS,UK,4.2,,upload,English
+REV-0063,The app shows an error whenever I try to upload a file.,2026-10-05,2.0,Android,Canada,,Trial,general,English
+REV-0064,"Love the new interface, everything feels much smoother.",2026-09-09,5.0,iOS,USA,4.0,Premium,support,English
+REV-0065,Login keeps failing and I cannot access my account.,2026-09-22,3.0,iOS,,4.2,Premium,checkout,English
+REV-0066,I use the app mainly for checking my orders.,,,iOS,USA,4.0,Trial,ui,English
+REV-0067,The app crashes every time I open the payment screen.,2026-09-02,2.0,Web,USA,4.1,Free,login,English
+REV-0068,"Love the new interface, everything feels much smoother.",2026-09-30,5.0,Web,UK,4.2,Free,login,English
+REV-0069,"Love the new interface, everything feels much smoother.",2026-09-07,4.0,Web,India,4.2,,performance,English
+REV-0070,Login worked instantly and I had no issues.,2026-09-05,5.0,Web,USA,4.0,Trial,,English
+REV-0071,I installed the application last month.,2026-09-03,,iOS,Australia,4.2,Trial,,English
+REV-0072,Customer support has not replied to my complaint.,2026-10-02,1.0,Android,Canada,4.2,Trial,support,English
+REV-0073,The app crashes whenever I open checkout.,2026-10-05,2.0,iOS,Canada,4.2,Trial,crash,English
+REV-0074,My card payment keeps failing in the app.,2026-09-30,1.0,Web,Australia,4.2,Premium,payment,English
+REV-0075,Customer support has not replied to my complaint.,2026-09-14,2.0,iOS,UK,,Premium,upload,English
+REV-0076,I installed the application last month.,2026-09-01,3.0,Web,USA,,Free,ui,English
+REV-0077,I use the app mainly for checking my orders.,2026-10-01,,Web,Canada,4.2,Free,login,English
+REV-0078,Login keeps failing and I cannot access my account.,2026-09-20,3.0,Web,Australia,4.2,Premium,login,English
+REV-0079,I really like the clean design and simple navigation.,2026-09-22,5.0,iOS,Canada,4.2,Premium,ui,English
+REV-0080,I cannot complete my payment even after several attempts.,2026-09-08,2.0,Web,Australia,4.1,Free,checkout,English
+REV-0081,The app shows an error whenever I try to upload a file.,2026-10-04,2.0,Web,UK,4.0,Free,general,English
+REV-0082,Customer support has not replied to my complaint.,2026-09-01,2.0,Web,Australia,4.1,Premium,performance,English
+REV-0083,The app crashes every time I open the payment screen.,2026-10-02,2.0,Android,India,4.3,Premium,crash,English
+REV-0084,"Great experience overall, very reliable app.",2026-09-17,5.0,iOS,India,4.0,Premium,crash,English
+REV-0085,The app is fast and easy to use.,2026-09-20,4.0,Android,USA,,Trial,crash,English
+REV-0086,The features are similar to other apps I have used.,2026-09-15,4.0,Web,Canada,4.2,Premium,general,English
+REV-0087,Checkout is broken and my order cannot be completed.,2026-09-04,2.0,Web,India,4.1,Trial,general,English
+REV-0088,I cannot complete my payment even after several attempts.,2026-09-12,2.0,Web,India,4.1,Free,login,English
+REV-0089,Payment is stuck and the order was not completed.,2026-09-30,2.0,Android,USA,4.2,Trial,payment,English
+REV-0090,Customer support solved my problem quickly.,2026-09-10,5.0,iOS,USA,4.0,Free,payment,English
+REV-0091,The app freezes on the splash screen and then closes.,,2.0,iOS,UK,4.2,Premium,upload,English
+REV-0092,"Great experience overall, very reliable app.",2026-09-28,5.0,Web,UK,4.3,Premium,payment,English
+REV-0093,Login keeps failing and I cannot access my account.,2026-09-03,1.0,Android,Canada,,Trial,performance,English
+REV-0094,The latest update made the app much better.,2026-09-28,4.0,Web,Canada,4.0,Premium,general,English
+REV-0095,Customer support has not replied to my complaint.,2026-09-22,2.0,iOS,Canada,4.2,Trial,payment,English
+REV-0096,The latest version has a different interface.,2026-09-06,3.0,,UK,4.2,Free,upload,English
+REV-0097,The latest version has a different interface.,2026-10-05,4.0,iOS,Canada,4.0,Free,payment,English
+REV-0098,Please contact me at testuser@example.com because my payment failed.,2026-09-04,5.0,Android,UK,4.3,Free,,English
+REV-0099,My phone is +91 98765 43210 and the app keeps crashing.,2026-09-08,4.0,,Australia,4.1,Trial,upload,English
+REV-0100,I cannot login. My email is customer@example.org.,2026-09-08,2.0,Web,USA,4.2,Trial,payment,English

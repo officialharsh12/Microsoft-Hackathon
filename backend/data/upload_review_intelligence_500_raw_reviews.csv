@@ -1,0 +1,501 @@
+﻿review_id,review_text,rating,review_date,platform,app_version,country,customer_type
+REV-00479,Payment failed during checkout even though my card works elsewhere.,2,2026-08-03,Google Play,3.1.1,USA,
+REV-00463,Everything worked perfectly on my latest order. I would recommend this to others.,5,2026-09-24,Google Play,3.1.0,,
+REV-00121,Opening notifications makes the app stop responding. It was really frustrating.,1,,Google Play,3.1.0,Canada,Returning
+REV-00106,The search feature helps me find products quickly.,4,2026-09-07,Apple App Store,3.0.0,Canada,New
+REV-00373,The app crashes whenever I open the order history.,1,2026-09-02,Google Play,2.9.0,,
+REV-00355,The new interface looks clean and is easy to navigate.,3,2026-08-15,Web,3.0.0,Canada,New
+REV-00323,Login fails even with the correct password. This happened again today.,,2026-09-20,Support Ticket,3.1.1,UK,New
+REV-00254,I was transferred between agents without a resolution. This happened again today.,,2026-09-19,Google Play,,UK,Premium
+REV-00082,Everything worked perfectly on my latest order.,4,2026-08-14,Apple App Store,2.9.0,USA,Premium
+REV-00129,The new interface looks clean and is easy to navigate.,5,2026-09-30,Support Ticket,3.0.0,India,Premium
+REV-00036,The tracking map is not updating.,1,2026-09-05,Web,3.1.0,,New
+REV-00285,Password reset sends me to an expired link.,3,2026-08-13,Support Ticket,3.1.0,USA,
+REV-00424,The support agent was polite but could not solve my issue.,1,2026-08-16,Web,3.0.0,India,Returning
+REV-00007,Opening notifications makes the app stop responding.,3,2026-08-07,Web,3.1.0,India,Returning
+REV-00057,Opening notifications makes the app stop responding. Please fix this soon.,2,2026-09-26,Google Play,3.1.1,UK,Premium
+REV-00162,I receive the same promotional notification five times.,,2026-08-26,Apple App Store,2.9.0,,
+REV-00455,The size chart does not match the actual item.,2,2026-09-16,Support Ticket,2.9.0,India,Premium
+REV-00422,My refund has not arrived after the failed transaction. This happened again today.,1,2026-08-14,Support Ticket,3.1.0,,Returning
+REV-00375,The app crashes whenever I open the order history.,1,2026-09-04,Google Play,2.9.0,UK,
+REV-00384,The chatbot keeps repeating the same unhelpful answer.,2,2026-09-13,Apple App Store,3.0.0,,
+REV-00020,After the latest update the app closes unexpectedly. I noticed it after the recent update.,1,2026-08-20,Web,3.0.0,India,
+REV-00418,The discount code is rejected even though it is valid. I tried twice with the same result.,1,2026-08-10,Apple App Store,3.0.0,,
+REV-00178,Customer support solved my problem quickly. Really impressed with the experience.,5,2026-09-11,Web,3.0.0,USA,
+REV-00428,Scrolling through the catalog feels very laggy. I noticed it after the recent update.,2,2026-08-20,Support Ticket,3.1.0,UK,Premium
+REV-00271,The checkout page freezes after I tap Pay. I tried twice with the same result.,1,2026-10-06,Web,2.9.0,UK,
+REV-00108,Face unlock no longer works after the update.,3,2026-09-09,Apple App Store,3.1.1,,Premium
+REV-00165,The discount code is rejected even though it is valid.,1,2026-08-29,Google Play,,India,Returning
+REV-00340,Important order alerts arrive hours late. I am sharing this so the team can improve it.,2,2026-10-07,Google Play,3.0.0,USA,Premium
+REV-00227,My package arrived four days later than promised. This happened again today.,2,2026-08-23,Apple App Store,2.9.0,India,Premium
+REV-00439,Scrolling through the catalog feels very laggy.,1,2026-08-31,Google Play,2.9.0,,
+REV-00102,The app drains my battery faster than before.,3,2026-09-03,Support Ticket,,India,Returning
+REV-00003,The coupon disappears when I apply it.,1,2026-08-03,Web,,India,
+REV-00148,Product pages take too long to load on mobile data.,1,2026-08-12,Support Ticket,3.0.0,,Returning
+REV-00262,Tracking says delivered but I have not received anything. Overall this needs attention.,2,2026-09-27,Support Ticket,3.1.0,India,Premium
+REV-00298,The app crashes whenever I open the order history.,3,2026-08-26,Apple App Store,3.0.0,USA,Premium
+REV-00225,The tracking map is not updating. Please fix this soon.,3,2026-08-21,Web,2.9.0,USA,Returning
+REV-00191,The application freezes on the splash screen.,2,2026-09-24,Google Play,2.9.0,India,Returning
+REV-00088,Face unlock no longer works after the update.,2,2026-08-20,Apple App Store,3.1.1,India,
+REV-00433,The payment screen keeps loading without completing the order. I noticed it after the recent update.,2,2026-08-25,Support Ticket,,UK,Returning
+REV-00275,The courier never called before marking the package undeliverable. I noticed it after the recent update.,2,2026-08-03,Apple App Store,3.0.0,UK,Returning
+REV-00401,The support agent was polite but could not solve my issue.,3,2026-09-30,Support Ticket,3.0.0,,
+REV-00276,Search results take several seconds to appear.,1,2026-08-04,Web,3.0.0,USA,Premium
+REV-00170,Everything worked perfectly on my latest order. Keep up the good work.,4,2026-09-03,Apple App Store,3.1.1,UK,Premium
+REV-00019,The support agent was polite but could not solve my issue.,1,2026-08-19,Google Play,,Canada,Returning
+REV-00118,The app shuts down while I am browsing products.,1,2026-09-19,Support Ticket,3.1.0,USA,
+REV-00144,The app crashes whenever I open the order history. Please fix this soon.,2,2026-08-08,Web,,Canada,Premium
+REV-00301,The app crashes whenever I open the order history.,3,2026-08-29,Google Play,3.0.0,India,New
+REV-00291,My package arrived four days later than promised. Overall this needs attention.,1,2026-08-19,Support Ticket,,India,Premium
+REV-00212,My package arrived four days later than promised.,2,2026-08-08,Web,3.0.0,USA,Premium
+REV-00400,After the latest update the app closes unexpectedly. This happened again today.,1,2026-09-29,Support Ticket,3.0.0,UK,Returning
+REV-00220,Opening notifications makes the app stop responding. It was really frustrating.,2,2026-08-16,Web,2.9.0,USA,
+REV-00251,The new interface looks clean and is easy to navigate.,4,2026-09-16,Web,3.1.0,USA,New
+REV-00477,I keep getting logged out in the middle of a session. I am sharing this so the team can improve it.,2,2026-08-01,Web,3.1.1,UK,New
+REV-00350,The checkout page freezes after I tap Pay.,2,2026-08-10,Support Ticket,3.1.0,India,Premium
+REV-00025,The new interface looks clean and is easy to navigate. The latest update is great.,5,2026-08-25,Web,3.0.0,UK,
+REV-00372,The OTP never arrives when I try to log in.,2,2026-09-01,Web,3.1.1,USA,
+REV-00395,The product stopped working after two days.,2,2026-09-24,Web,3.0.0,USA,Premium
+REV-00272,Opening notifications makes the app stop responding. Overall this needs attention.,3,2026-10-07,Apple App Store,3.0.0,,Premium
+REV-00105,Payment failed during checkout even though my card works elsewhere. I noticed it after the recent update.,3,2026-09-06,Support Ticket,3.1.0,USA,
+REV-00063,The OTP never arrives when I try to log in.,2,,Support Ticket,3.0.0,Canada,Returning
+REV-00277,My refund was processed much faster than expected.,,2026-08-05,Web,,,New
+REV-00386,Face unlock no longer works after the update. Overall this needs attention.,3,2026-09-15,Apple App Store,3.1.1,USA,
+REV-00042,The tracking map is not updating.,3,2026-09-11,Apple App Store,2.9.0,India,Premium
+REV-00346,Payment failed during checkout even though my card works elsewhere. Please fix this soon.,,2026-08-06,Support Ticket,3.1.0,USA,Premium
+REV-00031,The tracking map is not updating.,2,2026-08-31,Google Play,3.1.1,Canada,Returning
+REV-00343,The item I received was damaged inside the box.,2,2026-08-03,Support Ticket,2.9.0,UK,
+REV-00014,I was transferred between agents without a resolution. I tried twice with the same result.,1,2026-08-14,Support Ticket,,,Premium
+REV-00206,The app drains my battery faster than before.,1,2026-08-02,Google Play,,India,New
+REV-00193,The product looks different from the pictures.,1,2026-09-26,Apple App Store,3.0.0,UK,New
+REV-00311,I receive the same promotional notification five times.,2,2026-09-08,Support Ticket,3.1.1,,Returning
+REV-00409,The OTP never arrives when I try to log in. I noticed it after the recent update.,1,2026-08-01,Google Play,3.1.0,USA,
+REV-00173,The final checkout price is higher than the listing price.,1,2026-09-06,Web,2.9.0,,
+REV-00493,The courier never called before marking the package undeliverable. I noticed it after the recent update.,2,2026-08-17,Web,3.1.0,,Returning
+REV-00431,The checkout page freezes after I tap Pay.,1,2026-08-23,Google Play,,UK,Returning
+REV-00131,The app crashes whenever I open the order history.,2,2026-10-02,Apple App Store,3.1.0,,
+REV-00184,I was transferred between agents without a resolution.,2,2026-09-17,Apple App Store,2.9.0,,Returning
+REV-00182,Product pages take too long to load on mobile data.,3,2026-09-15,Apple App Store,3.0.0,Canada,New
+REV-00039,The tracking map is not updating.,1,2026-09-08,Support Ticket,3.1.0,India,Premium
+REV-00242,I love the accurate delivery tracking. Keep up the good work.,4,2026-09-07,Google Play,2.9.0,USA,Premium
+REV-00447,The application freezes on the splash screen. I noticed it after the recent update.,2,2026-09-08,Google Play,3.0.0,,Premium
+REV-00099,The new interface looks clean and is easy to navigate. I would recommend this to others.,4,2026-08-31,Apple App Store,3.0.0,India,New
+REV-00145,Push notifications stopped working after the update.,3,2026-08-09,Support Ticket,3.1.1,UK,Premium
+REV-00266,I keep getting logged out in the middle of a session.,3,,Support Ticket,,Canada,Premium
+REV-00310,The chatbot keeps repeating the same unhelpful answer. It was really frustrating.,3,2026-09-07,Support Ticket,3.0.0,India,Premium
+REV-00253,Payment failed during checkout even though my card works elsewhere.,2,2026-09-18,Google Play,3.0.0,USA,
+REV-00371,Payment failed during checkout even though my card works elsewhere.,2,2026-08-31,Web,3.1.1,,New
+REV-00125,Opening notifications makes the app stop responding.,2,2026-09-26,Google Play,3.1.0,India,
+REV-00169,Customer support solved my problem quickly. Keep up the good work.,5,2026-09-02,Web,3.0.0,UK,Premium
+REV-00080,Login fails even with the correct password.,1,2026-08-12,Web,3.0.0,India,Returning
+REV-00344,The app crashes whenever I open the order history.,1,2026-08-04,Support Ticket,3.1.1,India,Returning
+REV-00067,My refund has not arrived after the failed transaction. This happened again today.,3,2026-10-06,Apple App Store,3.1.1,USA,Returning
+REV-00089,Push notifications stopped working after the update.,3,2026-08-21,Web,2.9.0,Canada,Premium
+REV-00123,The payment screen keeps loading without completing the order.,2,2026-09-24,Support Ticket,2.9.0,Canada,
+REV-00295,The checkout page freezes after I tap Pay. Overall this needs attention.,1,,Support Ticket,2.9.0,India,Returning
+REV-00110,I love the accurate delivery tracking.,3,2026-09-11,Apple App Store,3.0.0,UK,Premium
+REV-00387,My refund has not arrived after the failed transaction.,1,2026-09-16,Support Ticket,2.9.0,Canada,New
+REV-00086,The app drains my battery faster than before. I am sharing this so the team can improve it.,2,2026-08-18,Google Play,2.9.0,India,New
+REV-00312,Delivery charges are shown only at the last step.,2,2026-09-09,Support Ticket,2.9.0,Canada,New
+REV-00362,Customer support solved my problem quickly.,5,2026-08-22,Support Ticket,2.9.0,,Returning
+REV-00378,The product stopped working after two days.,3,2026-09-07,Support Ticket,3.1.0,UK,Returning
+REV-00179,The size chart does not match the actual item. I tried twice with the same result.,2,,Support Ticket,3.1.0,India,New
+REV-00243,Support has not responded to my ticket for three days.,2,2026-09-08,Google Play,,UK,
+REV-00218,The product looks different from the pictures.,3,2026-08-14,Support Ticket,3.1.0,UK,New
+REV-00482,The coupon disappears when I apply it.,1,2026-08-06,Google Play,3.1.0,USA,New
+REV-00403,The app drains my battery faster than before.,2,2026-10-02,Google Play,,,Premium
+REV-00026,The app drains my battery faster than before.,3,2026-08-26,Support Ticket,3.0.0,Canada,Premium
+REV-00072,Important order alerts arrive hours late.,2,2026-08-04,Support Ticket,3.0.0,India,Returning
+REV-00488,The product stopped working after two days. Overall this needs attention.,1,2026-08-12,Web,2.9.0,USA,New
+REV-00296,I love the accurate delivery tracking. I would recommend this to others.,4,2026-08-24,Support Ticket,,UK,Premium
+REV-00342,The chatbot keeps repeating the same unhelpful answer. Overall this needs attention.,2,2026-08-02,Apple App Store,3.0.0,UK,New
+REV-00495,My refund was processed much faster than expected. Really impressed with the experience.,5,2026-08-19,Support Ticket,3.1.1,Canada,Returning
+REV-00451,After the latest update the app closes unexpectedly.,2,2026-09-12,Google Play,2.9.0,Canada,Premium
+REV-00374,Customer support solved my problem quickly.,4,2026-09-03,Support Ticket,2.9.0,UK,
+REV-00163,The payment screen keeps loading without completing the order.,2,2026-08-27,Google Play,3.0.0,,Returning
+REV-00464,Payment failed during checkout even though my card works elsewhere.,2,2026-09-25,Apple App Store,3.1.1,UK,New
+REV-00383,Customer support solved my problem quickly. Really impressed with the experience.,5,2026-09-12,Apple App Store,3.1.0,USA,New
+REV-00011,The app shuts down while I am browsing products. Overall this needs attention.,2,2026-08-11,Web,3.1.1,Canada,Premium
+REV-00065,Money was deducted but the order never appeared. I am sharing this so the team can improve it.,3,2026-10-04,Support Ticket,2.9.0,USA,New
+REV-00235,Customer support solved my problem quickly. The latest update is great.,3,2026-08-31,Support Ticket,2.9.0,Canada,Returning
+REV-00210,I keep getting logged out in the middle of a session.,2,2026-08-06,Google Play,3.1.0,USA,
+REV-00474,Password reset sends me to an expired link.,1,2026-10-05,Google Play,3.1.1,India,New
+REV-00417,Payment succeeds only after several retries.,1,2026-08-09,Google Play,,India,Premium
+REV-00200,The application freezes on the splash screen.,3,2026-10-03,Apple App Store,3.1.0,UK,Returning
+REV-00030,Scrolling through the catalog feels very laggy. I tried twice with the same result.,1,2026-08-30,Google Play,3.0.0,Canada,Premium
+REV-00489,Everything worked perfectly on my latest order. I would recommend this to others.,3,2026-08-13,Support Ticket,3.1.1,Canada,New
+REV-00363,The size chart does not match the actual item.,2,2026-08-23,Web,3.0.0,USA,Premium
+REV-00093,The delivery estimate changes every day. Overall this needs attention.,,2026-08-25,Support Ticket,3.0.0,USA,New
+REV-00283,The item I received was damaged inside the box.,3,2026-08-11,Google Play,3.1.1,Canada,Premium
+REV-00410,The discount code is rejected even though it is valid.,1,2026-08-02,Apple App Store,3.0.0,India,Returning
+REV-00100,The application freezes on the splash screen.,3,2026-09-01,Support Ticket,3.0.0,USA,Returning
+REV-00467,My refund was processed much faster than expected. Really impressed with the experience.,5,2026-09-28,Support Ticket,3.1.1,,Returning
+REV-00443,The item I received was damaged inside the box.,3,2026-09-04,Apple App Store,2.9.0,,New
+REV-00046,Scrolling through the catalog feels very laggy.,1,2026-09-15,Google Play,3.0.0,USA,Premium
+REV-00087,The coupon disappears when I apply it.,1,2026-08-19,Apple App Store,2.9.0,Canada,Premium
+REV-00207,Payment failed during checkout even though my card works elsewhere. I noticed it after the recent update.,2,2026-08-03,Apple App Store,3.1.1,India,
+REV-00472,Opening notifications makes the app stop responding.,1,2026-10-03,Apple App Store,3.1.0,USA,
+REV-00126,Payment succeeds only after several retries.,3,2026-09-27,Apple App Store,3.1.0,UK,
+REV-00261,My refund has not arrived after the failed transaction. I noticed it after the recent update.,1,2026-09-26,Web,2.9.0,India,New
+REV-00150,The discount code is rejected even though it is valid.,2,,Support Ticket,3.0.0,,New
+REV-00273,My refund was processed much faster than expected.,4,2026-08-01,Apple App Store,2.9.0,UK,Premium
+REV-00141,Password reset sends me to an expired link. I tried twice with the same result.,2,2026-08-05,Apple App Store,3.1.1,India,New
+REV-00304,The search feature helps me find products quickly.,5,2026-09-01,Google Play,3.1.0,USA,Returning
+REV-00091,The courier never called before marking the package undeliverable. I tried twice with the same result.,3,2026-08-23,Google Play,2.9.0,,
+REV-00104,Opening notifications makes the app stop responding. I am sharing this so the team can improve it.,1,2026-09-05,Apple App Store,3.1.1,USA,Returning
+REV-00246,After the latest update the app closes unexpectedly.,2,2026-09-11,Web,3.1.1,UK,Premium
+REV-00499,Customer service closed my case before fixing it.,3,2026-08-23,Google Play,,UK,
+REV-00322,The app shuts down while I am browsing products.,1,2026-09-19,Support Ticket,2.9.0,India,Premium
+REV-00221,I keep getting logged out in the middle of a session. I noticed it after the recent update.,2,2026-08-17,Google Play,3.1.0,Canada,Premium
+REV-00475,Payment failed during checkout even though my card works elsewhere.,1,2026-10-06,Google Play,3.0.0,USA,New
+REV-00035,The tracking map is not updating.,2,2026-09-04,Web,,UK,Returning
+REV-00195,Face unlock no longer works after the update.,3,2026-09-28,Web,3.0.0,USA,Premium
+REV-00154,After the latest update the app closes unexpectedly. It was really frustrating.,2,2026-08-18,Web,3.0.0,,
+REV-00146,My refund was processed much faster than expected.,5,2026-08-10,Google Play,3.1.0,,
+REV-00321,Money was deducted but the order never appeared.,2,2026-09-18,Apple App Store,3.1.0,USA,
+REV-00189,The application freezes on the splash screen.,1,2026-09-22,Google Play,3.1.0,UK,New
+REV-00359,I was transferred between agents without a resolution.,1,2026-08-19,Apple App Store,2.9.0,USA,New
+REV-00061,Money was deducted but the order never appeared. Please fix this soon.,2,2026-09-30,Google Play,2.9.0,India,Returning
+REV-00394,The support agent was polite but could not solve my issue. This happened again today.,2,2026-09-23,Web,3.0.0,USA,Returning
+REV-00404,Opening notifications makes the app stop responding.,1,2026-10-03,Support Ticket,3.1.0,UK,Returning
+REV-00196,The courier never called before marking the package undeliverable. I tried twice with the same result.,1,2026-09-29,Support Ticket,2.9.0,,Returning
+REV-00326,Payment failed during checkout even though my card works elsewhere.,2,2026-09-23,Apple App Store,3.1.1,Canada,
+REV-00337,Opening notifications makes the app stop responding. I tried twice with the same result.,3,2026-10-04,Google Play,3.1.0,USA,Returning
+REV-00092,The coupon disappears when I apply it. It was really frustrating.,1,,Support Ticket,2.9.0,USA,Premium
+REV-00379,Everything worked perfectly on my latest order.,5,2026-09-08,Apple App Store,3.1.1,Canada,Returning
+REV-00055,I was transferred between agents without a resolution.,2,2026-09-24,Apple App Store,,Canada,Returning
+REV-00496,I receive the same promotional notification five times.,2,2026-08-20,Google Play,2.9.0,Canada,Premium
+REV-00352,The app drains my battery faster than before. This happened again today.,2,2026-08-12,Apple App Store,,,Returning
+REV-00017,Checkout was smooth and my order arrived on time.,3,2026-08-17,Support Ticket,2.9.0,UK,
+REV-00167,The app shuts down while I am browsing products.,3,2026-08-31,Google Play,3.1.0,Canada,Returning
+REV-00380,Checkout was smooth and my order arrived on time.,4,2026-09-09,Web,3.1.1,India,New
+REV-00056,The final checkout price is higher than the listing price. Please fix this soon.,2,2026-09-25,Web,2.9.0,India,
+REV-00164,The discount code is rejected even though it is valid.,2,2026-08-28,Support Ticket,,,Returning
+REV-00465,The chatbot keeps repeating the same unhelpful answer.,2,2026-09-26,Apple App Store,2.9.0,India,Returning
+REV-00453,My package arrived four days later than promised. I noticed it after the recent update.,2,2026-09-14,Support Ticket,,Canada,Premium
+REV-00168,The search feature helps me find products quickly.,4,2026-09-01,Support Ticket,3.1.0,India,Returning
+REV-00140,The checkout page freezes after I tap Pay.,3,2026-08-04,Web,,Canada,Returning
+REV-00181,The checkout page freezes after I tap Pay.,2,2026-09-14,Support Ticket,3.1.0,Canada,Returning
+REV-00388,I love the accurate delivery tracking.,5,2026-09-17,Apple App Store,3.1.0,India,New
+REV-00368,Password reset sends me to an expired link. I tried twice with the same result.,2,2026-08-28,Apple App Store,,Canada,New
+REV-00264,I turned off notifications but marketing alerts still appear.,3,2026-09-29,Google Play,3.1.1,UK,New
+REV-00303,I turned off notifications but marketing alerts still appear. This happened again today.,2,2026-08-31,Web,2.9.0,UK,Premium
+REV-00309,The delivery estimate changes every day.,2,2026-09-06,Support Ticket,3.1.1,,New
+REV-00083,The final checkout price is higher than the listing price. I am sharing this so the team can improve it.,3,2026-08-15,Google Play,,USA,Premium
+REV-00324,Payment failed during checkout even though my card works elsewhere. I noticed it after the recent update.,1,,Apple App Store,3.1.1,India,
+REV-00397,The application freezes on the splash screen.,1,2026-09-26,Support Ticket,2.9.0,USA,
+REV-00306,I love the accurate delivery tracking.,5,2026-09-03,Support Ticket,3.1.1,USA,
+REV-00462,Search results take several seconds to appear. It was really frustrating.,3,2026-09-23,Apple App Store,3.1.0,Canada,Premium
+REV-00459,The checkout page freezes after I tap Pay. This happened again today.,1,2026-09-20,Apple App Store,3.0.0,USA,New
+REV-00097,Product pages take too long to load on mobile data.,1,2026-08-29,Support Ticket,3.0.0,Canada,Returning
+REV-00180,Password reset sends me to an expired link. Overall this needs attention.,1,2026-09-13,Support Ticket,3.0.0,USA,Premium
+REV-00045,The tracking map is not updating.,1,2026-09-14,Google Play,3.0.0,Canada,New
+REV-00456,Face unlock no longer works after the update.,3,2026-09-17,Web,3.1.1,India,
+REV-00278,I keep getting logged out in the middle of a session.,3,2026-08-06,Google Play,2.9.0,UK,Premium
+REV-00353,Face unlock no longer works after the update. It was really frustrating.,2,,Web,2.9.0,USA,Returning
+REV-00090,Important order alerts arrive hours late. I tried twice with the same result.,1,2026-08-22,Web,3.1.0,UK,
+REV-00187,The checkout page freezes after I tap Pay.,1,2026-09-20,Google Play,3.1.0,UK,New
+REV-00095,I turned off notifications but marketing alerts still appear.,3,2026-08-27,Google Play,,USA,
+REV-00071,Tracking says delivered but I have not received anything. Overall this needs attention.,3,2026-08-03,Support Ticket,2.9.0,Canada,Returning
+REV-00341,Tracking says delivered but I have not received anything.,3,2026-08-01,Support Ticket,3.1.1,UK,Premium
+REV-00313,Support has not responded to my ticket for three days.,2,2026-09-10,Apple App Store,,,Returning
+REV-00008,I keep getting logged out in the middle of a session. I noticed it after the recent update.,2,2026-08-08,Web,3.1.0,India,Premium
+REV-00111,The search feature helps me find products quickly. Keep up the good work.,4,2026-09-12,Support Ticket,3.0.0,USA,
+REV-00197,The application freezes on the splash screen.,3,2026-09-30,Web,3.1.1,India,New
+REV-00160,Support has not responded to my ticket for three days.,1,2026-08-24,Web,2.9.0,Canada,
+REV-00101,I keep getting logged out in the middle of a session.,3,2026-09-02,Apple App Store,3.0.0,Canada,Returning
+REV-00009,The item I received was damaged inside the box. Please fix this soon.,1,2026-08-09,Support Ticket,3.1.0,,Premium
+REV-00307,My refund was processed much faster than expected.,4,2026-09-04,Support Ticket,,Canada,Premium
+REV-00274,Face unlock no longer works after the update.,1,2026-08-02,Web,,UK,New
+REV-00339,My refund has not arrived after the failed transaction. I tried twice with the same result.,1,2026-10-06,Apple App Store,,,
+REV-00345,I receive the same promotional notification five times.,2,2026-08-05,Apple App Store,3.1.1,UK,Returning
+REV-00006,I keep getting logged out in the middle of a session.,1,2026-08-06,Google Play,3.0.0,India,Premium
+REV-00408,The app shuts down while I am browsing products. Please fix this soon.,2,2026-10-07,Web,2.9.0,USA,
+REV-00185,The payment screen keeps loading without completing the order. Overall this needs attention.,,2026-09-18,Google Play,2.9.0,,Premium
+REV-00270,The delivery estimate changes every day.,1,2026-10-05,Google Play,3.0.0,UK,Premium
+REV-00034,The tracking map is not updating.,3,,Support Ticket,2.9.0,India,Returning
+REV-00265,The app crashes whenever I open the order history.,1,2026-09-30,Apple App Store,,USA,Premium
+REV-00248,I receive the same promotional notification five times. I noticed it after the recent update.,2,2026-09-13,Google Play,3.0.0,Canada,Returning
+REV-00188,The new interface looks clean and is easy to navigate. Really impressed with the experience.,4,2026-09-21,Support Ticket,2.9.0,Canada,
+REV-00244,The support agent was polite but could not solve my issue.,1,2026-09-09,Google Play,3.1.0,Canada,New
+REV-00415,Money was deducted but the order never appeared.,,2026-08-07,Apple App Store,3.1.0,Canada,
+REV-00470,The OTP never arrives when I try to log in.,1,2026-10-01,Apple App Store,3.1.0,India,
+REV-00016,The item I received was damaged inside the box.,2,2026-08-16,Web,3.1.1,UK,Premium
+REV-00289,I love the accurate delivery tracking.,5,2026-08-17,Support Ticket,2.9.0,,
+REV-00001,The tracking map is not updating.,,2026-08-01,Apple App Store,3.0.0,UK,New
+REV-00018,The app shuts down while I am browsing products.,2,2026-08-18,Support Ticket,3.0.0,Canada,
+REV-00468,The application freezes on the splash screen.,3,2026-09-29,Google Play,3.1.1,USA,
+REV-00213,Scrolling through the catalog feels very laggy.,1,2026-08-09,Support Ticket,3.0.0,USA,Returning
+REV-00348,The tracking map is not updating. I noticed it after the recent update.,1,2026-08-08,Apple App Store,3.1.1,USA,Returning
+REV-00222,Payment succeeds only after several retries. Please fix this soon.,1,2026-08-18,Support Ticket,,Canada,Returning
+REV-00021,Customer support solved my problem quickly. Really impressed with the experience.,4,2026-08-21,Support Ticket,,India,New
+REV-00500,Opening notifications makes the app stop responding.,1,2026-08-24,Support Ticket,2.9.0,UK,Returning
+REV-00232,My package arrived four days later than promised. I noticed it after the recent update.,3,2026-08-28,Web,3.0.0,,Premium
+REV-00049,The application freezes on the splash screen. Overall this needs attention.,2,2026-09-18,Web,3.1.1,Canada,New
+REV-00320,I was transferred between agents without a resolution.,1,2026-09-17,Web,3.0.0,UK,
+REV-00005,I keep getting logged out in the middle of a session. I am sharing this so the team can improve it.,3,,Web,3.1.0,,New
+REV-00038,The tracking map is not updating.,4,2026-09-07,Support Ticket,,India,Returning
+REV-00421,The new interface looks clean and is easy to navigate.,3,2026-08-13,Support Ticket,3.1.1,India,Returning
+REV-00139,Everything worked perfectly on my latest order. Keep up the good work.,,2026-08-03,Google Play,3.1.1,Canada,Premium
+REV-00328,Payment failed during checkout even though my card works elsewhere.,3,2026-09-25,Support Ticket,2.9.0,,New
+REV-00112,The size chart does not match the actual item.,2,2026-09-13,Google Play,3.1.0,Canada,Returning
+REV-00336,The app is fast and easy to use.,4,2026-10-03,Apple App Store,3.0.0,,Premium
+REV-00430,Customer support solved my problem quickly. I would recommend this to others.,3,2026-08-22,Apple App Store,3.0.0,Canada,Returning
+REV-00425,The final checkout price is higher than the listing price.,2,2026-08-17,Google Play,3.0.0,UK,
+REV-00032,The tracking map is not updating.,2,2026-09-01,Support Ticket,,UK,New
+REV-00314,The courier never called before marking the package undeliverable.,1,2026-09-11,Support Ticket,3.1.0,Canada,Premium
+REV-00441,The tracking map is not updating.,1,2026-09-02,Support Ticket,3.0.0,,
+REV-00478,I keep getting logged out in the middle of a session. I am sharing this so the team can improve it.,2,2026-08-02,Support Ticket,3.1.0,India,Returning
+REV-00490,Delivery charges are shown only at the last step.,2,2026-08-14,Google Play,3.1.0,UK,Premium
+REV-00194,I receive the same promotional notification five times. Overall this needs attention.,3,2026-09-27,Apple App Store,3.0.0,India,Returning
+REV-00172,Scrolling through the catalog feels very laggy. I tried twice with the same result.,3,2026-09-05,Web,3.1.1,Canada,
+REV-00052,Payment failed during checkout even though my card works elsewhere. Overall this needs attention.,3,2026-09-21,Apple App Store,3.1.1,,Returning
+REV-00318,Product pages take too long to load on mobile data. It was really frustrating.,3,2026-09-15,Support Ticket,3.1.0,USA,Returning
+REV-00331,My refund has not arrived after the failed transaction. I tried twice with the same result.,1,2026-09-28,Support Ticket,2.9.0,USA,New
+REV-00116,Opening notifications makes the app stop responding.,,2026-09-17,Apple App Store,3.0.0,,Returning
+REV-00033,The tracking map is not updating.,1,2026-09-02,Apple App Store,3.1.0,USA,Premium
+REV-00438,The app drains my battery faster than before.,,2026-08-30,Web,3.1.1,,Premium
+REV-00392,My refund has not arrived after the failed transaction. Overall this needs attention.,,2026-09-21,Web,2.9.0,India,Premium
+REV-00147,Product pages take too long to load on mobile data. It was really frustrating.,2,2026-08-11,Web,2.9.0,,
+REV-00452,The OTP never arrives when I try to log in.,2,2026-09-13,Support Ticket,3.1.1,Canada,Returning
+REV-00293,The coupon disappears when I apply it.,2,2026-08-21,Google Play,,,Premium
+REV-00250,The product stopped working after two days. I tried twice with the same result.,1,2026-09-15,Web,3.1.0,USA,
+REV-00354,Customer service closed my case before fixing it. I am sharing this so the team can improve it.,3,2026-08-14,Google Play,2.9.0,,
+REV-00335,Checkout was smooth and my order arrived on time.,4,2026-10-02,Web,,Canada,Premium
+REV-00004,Scrolling through the catalog feels very laggy.,2,2026-08-04,Support Ticket,3.1.1,India,New
+REV-00249,The checkout page freezes after I tap Pay.,2,2026-09-14,Support Ticket,,India,Returning
+REV-00402,My refund has not arrived after the failed transaction.,2,2026-10-01,Google Play,3.1.1,India,New
+REV-00073,Push notifications stopped working after the update.,2,2026-08-05,Web,3.1.0,USA,New
+REV-00252,Password reset sends me to an expired link.,2,2026-09-17,Google Play,3.1.1,India,
+REV-00333,The app drains my battery faster than before.,1,2026-09-30,Web,2.9.0,Canada,Premium
+REV-00176,After the latest update the app closes unexpectedly.,1,2026-09-09,Google Play,3.1.1,UK,Returning
+REV-00066,I keep getting logged out in the middle of a session.,2,2026-10-05,Apple App Store,3.1.1,India,Returning
+REV-00062,The app is fast and easy to use.,3,2026-10-01,Web,,Canada,
+REV-00454,Payment succeeds only after several retries.,1,2026-09-15,Apple App Store,3.0.0,India,Returning
+REV-00391,The app drains my battery faster than before.,2,2026-09-20,Google Play,,,Returning
+REV-00267,Search results take several seconds to appear.,2,2026-10-02,Apple App Store,3.1.0,UK,New
+REV-00152,Login fails even with the correct password. This happened again today.,1,2026-08-16,Support Ticket,3.1.0,Canada,New
+REV-00153,My refund was processed much faster than expected.,3,2026-08-17,Apple App Store,2.9.0,Canada,New
+REV-00044,The tracking map is not updating.,3,2026-09-13,Google Play,3.1.1,USA,Premium
+REV-00120,The search feature helps me find products quickly. Really impressed with the experience.,3,2026-09-21,Google Play,3.1.0,Canada,Returning
+REV-00047,Customer support solved my problem quickly.,,2026-09-16,Support Ticket,3.0.0,UK,Returning
+REV-00027,The checkout page freezes after I tap Pay.,3,2026-08-27,Web,3.1.1,,
+REV-00171,The coupon disappears when I apply it. I tried twice with the same result.,1,2026-09-04,Support Ticket,2.9.0,,
+REV-00492,I keep getting logged out in the middle of a session. I noticed it after the recent update.,2,2026-08-16,Apple App Store,,India,Premium
+REV-00406,The checkout page freezes after I tap Pay.,3,2026-10-05,Apple App Store,,India,Premium
+REV-00457,Password reset sends me to an expired link. I am sharing this so the team can improve it.,1,2026-09-18,Web,3.1.1,UK,
+REV-00114,I receive the same promotional notification five times.,2,2026-09-15,Web,3.1.0,India,New
+REV-00263,The application freezes on the splash screen.,1,2026-09-28,Google Play,,USA,New
+REV-00247,Payment succeeds only after several retries. I tried twice with the same result.,2,2026-09-12,Google Play,3.0.0,India,Premium
+REV-00259,The application freezes on the splash screen.,3,2026-09-24,Support Ticket,2.9.0,Canada,Premium
+REV-00245,I keep getting logged out in the middle of a session. I tried twice with the same result.,2,2026-09-10,Apple App Store,3.1.1,India,New
+REV-00446,Payment succeeds only after several retries.,2,2026-09-07,Web,,UK,Premium
+REV-00198,I was transferred between agents without a resolution. Please fix this soon.,1,2026-10-01,Apple App Store,3.1.1,Canada,New
+REV-00223,Product pages take too long to load on mobile data.,1,2026-08-19,Support Ticket,3.1.1,UK,Returning
+REV-00136,I receive the same promotional notification five times. Overall this needs attention.,2,2026-10-07,Support Ticket,2.9.0,India,
+REV-00084,My package arrived four days later than promised. This happened again today.,3,2026-08-16,Apple App Store,,Canada,New
+REV-00412,Everything worked perfectly on my latest order.,3,2026-08-04,Web,3.1.1,USA,
+REV-00103,I keep getting logged out in the middle of a session.,2,2026-09-04,Apple App Store,,Canada,Premium
+REV-00023,The new interface looks clean and is easy to navigate.,3,2026-08-23,Support Ticket,3.1.0,India,New
+REV-00382,The app drains my battery faster than before. It was really frustrating.,1,,Support Ticket,3.1.0,USA,Premium
+REV-00149,My refund was processed much faster than expected.,5,2026-08-13,Google Play,3.0.0,Canada,Returning
+REV-00429,The app shuts down while I am browsing products. This happened again today.,2,2026-08-21,Apple App Store,3.0.0,USA,New
+REV-00155,Product pages take too long to load on mobile data.,1,2026-08-19,Support Ticket,3.0.0,,New
+REV-00288,The tracking map is not updating. This happened again today.,2,2026-08-16,Apple App Store,,UK,New
+REV-00054,Important order alerts arrive hours late. I am sharing this so the team can improve it.,2,2026-09-23,Support Ticket,3.1.0,Canada,Premium
+REV-00325,I love the accurate delivery tracking. I would recommend this to others.,4,2026-09-22,Apple App Store,3.1.1,India,
+REV-00385,Payment succeeds only after several retries.,2,2026-09-14,Web,3.1.0,,New
+REV-00414,Everything worked perfectly on my latest order.,4,2026-08-06,Google Play,3.0.0,Canada,Returning
+REV-00284,Face unlock no longer works after the update.,1,2026-08-12,Support Ticket,3.1.1,India,
+REV-00405,The checkout page freezes after I tap Pay. Overall this needs attention.,2,2026-10-04,Support Ticket,2.9.0,,Returning
+REV-00209,The courier never called before marking the package undeliverable.,1,2026-08-05,Web,,USA,Returning
+REV-00260,Customer service closed my case before fixing it. I tried twice with the same result.,2,2026-09-25,Support Ticket,3.1.1,,Returning
+REV-00028,I love the accurate delivery tracking. Keep up the good work.,5,2026-08-28,Web,3.1.1,,New
+REV-00381,The app shuts down while I am browsing products. This happened again today.,3,2026-09-10,Google Play,2.9.0,USA,
+REV-00269,The payment screen keeps loading without completing the order. Please fix this soon.,1,2026-10-04,Web,3.0.0,Canada,Premium
+REV-00330,Money was deducted but the order never appeared. It was really frustrating.,1,2026-09-27,Google Play,,USA,
+REV-00216,The OTP never arrives when I try to log in.,2,2026-08-12,Support Ticket,3.1.0,UK,New
+REV-00012,Face unlock no longer works after the update.,3,2026-08-12,Support Ticket,,Canada,New
+REV-00300,The support agent was polite but could not solve my issue.,,2026-08-28,Google Play,3.0.0,,
+REV-00081,The application freezes on the splash screen.,2,2026-08-13,Apple App Store,,,New
+REV-00316,The search feature helps me find products quickly. Really impressed with the experience.,5,2026-09-13,Web,3.1.0,UK,New
+REV-00319,Login fails even with the correct password. Overall this needs attention.,3,2026-09-16,Apple App Store,3.1.1,,
+REV-00074,The new interface looks clean and is easy to navigate. Keep up the good work.,5,2026-08-06,Google Play,3.0.0,UK,New
+REV-00434,The final checkout price is higher than the listing price. I am sharing this so the team can improve it.,2,2026-08-26,Web,3.1.0,UK,Premium
+REV-00487,The delivery estimate changes every day. Overall this needs attention.,1,2026-08-11,Google Play,3.1.0,,New
+REV-00175,Everything worked perfectly on my latest order.,4,2026-09-08,Google Play,3.1.1,UK,New
+REV-00364,The OTP never arrives when I try to log in. I noticed it after the recent update.,1,2026-08-24,Apple App Store,2.9.0,UK,Premium
+REV-00069,My refund was processed much faster than expected.,3,2026-08-01,Apple App Store,3.1.1,USA,
+REV-00228,The chatbot keeps repeating the same unhelpful answer.,3,2026-08-24,Web,3.0.0,USA,
+REV-00292,The checkout page freezes after I tap Pay.,1,2026-08-20,Apple App Store,3.1.0,UK,Premium
+REV-00491,My package arrived four days later than promised.,1,2026-08-15,Apple App Store,2.9.0,Canada,New
+REV-00258,Opening notifications makes the app stop responding.,2,2026-09-23,Web,3.0.0,Canada,Returning
+REV-00133,The payment screen keeps loading without completing the order. This happened again today.,1,2026-10-04,Web,2.9.0,Canada,Premium
+REV-00214,Scrolling through the catalog feels very laggy. I noticed it after the recent update.,1,2026-08-10,Web,,UK,Returning
+REV-00460,The item I received was damaged inside the box. It was really frustrating.,2,2026-09-21,Apple App Store,3.0.0,UK,New
+REV-00236,Everything worked perfectly on my latest order. Keep up the good work.,4,2026-09-01,Support Ticket,,India,New
+REV-00436,Support has not responded to my ticket for three days. This happened again today.,2,2026-08-28,Web,3.1.0,USA,
+REV-00241,The new interface looks clean and is easy to navigate.,4,2026-09-06,Support Ticket,,Canada,Premium
+REV-00485,I keep getting logged out in the middle of a session.,2,2026-08-09,Google Play,,Canada,New
+REV-00015,Product pages take too long to load on mobile data. This happened again today.,3,2026-08-15,Web,3.1.0,,Premium
+REV-00427,I was transferred between agents without a resolution. I noticed it after the recent update.,2,2026-08-19,Support Ticket,3.0.0,UK,New
+REV-00315,Payment succeeds only after several retries. I tried twice with the same result.,3,2026-09-12,Google Play,3.0.0,USA,Premium
+REV-00024,The search feature helps me find products quickly.,,2026-08-24,Web,,India,Premium
+REV-00290,The OTP never arrives when I try to log in.,2,2026-08-18,Google Play,3.1.1,USA,New
+REV-00177,The app is fast and easy to use.,5,2026-09-10,Support Ticket,,India,Returning
+REV-00204,My package arrived four days later than promised. This happened again today.,2,2026-10-07,Google Play,2.9.0,India,
+REV-00053,The OTP never arrives when I try to log in.,1,2026-09-22,Support Ticket,3.0.0,,Returning
+REV-00174,Delivery charges are shown only at the last step.,2,2026-09-07,Support Ticket,3.1.1,UK,
+REV-00127,Opening notifications makes the app stop responding.,3,2026-09-28,Support Ticket,2.9.0,USA,Returning
+REV-00442,Scrolling through the catalog feels very laggy.,2,2026-09-03,Web,,India,New
+REV-00190,Opening notifications makes the app stop responding.,2,2026-09-23,Web,,UK,New
+REV-00349,Delivery charges are shown only at the last step.,1,2026-08-09,Google Play,3.1.0,India,Returning
+REV-00079,Important order alerts arrive hours late. Please fix this soon.,2,2026-08-11,Google Play,3.0.0,USA,New
+REV-00327,After the latest update the app closes unexpectedly. I noticed it after the recent update.,2,2026-09-24,Apple App Store,,UK,Premium
+REV-00476,My package arrived four days later than promised.,3,2026-10-07,Google Play,,India,
+REV-00461,My package arrived four days later than promised. I am sharing this so the team can improve it.,,2026-09-22,Web,3.1.1,,Premium
+REV-00450,The support agent was polite but could not solve my issue.,3,2026-09-11,Apple App Store,,UK,Premium
+REV-00329,My refund was processed much faster than expected.,4,2026-09-26,Support Ticket,3.0.0,UK,Returning
+REV-00369,Search results take several seconds to appear.,,2026-08-29,Google Play,2.9.0,Canada,
+REV-00094,Checkout was smooth and my order arrived on time.,3,2026-08-26,Support Ticket,2.9.0,USA,Returning
+REV-00142,The app drains my battery faster than before. Please fix this soon.,2,2026-08-06,Google Play,,USA,Returning
+REV-00029,Money was deducted but the order never appeared.,1,2026-08-29,Google Play,3.1.1,India,Returning
+REV-00268,The search feature helps me find products quickly.,4,2026-10-03,Web,,Canada,Premium
+REV-00449,I keep getting logged out in the middle of a session. I tried twice with the same result.,2,2026-09-10,Support Ticket,2.9.0,India,Premium
+REV-00203,The item I received was damaged inside the box.,1,2026-10-06,Support Ticket,3.1.0,,Returning
+REV-00471,I keep getting logged out in the middle of a session. I am sharing this so the team can improve it.,3,2026-10-02,Google Play,,India,New
+REV-00078,Push notifications stopped working after the update.,1,2026-08-10,Web,2.9.0,UK,
+REV-00224,I turned off notifications but marketing alerts still appear.,1,2026-08-20,Apple App Store,,,Premium
+REV-00389,The app is fast and easy to use.,4,2026-09-18,Apple App Store,3.1.0,USA,Returning
+REV-00058,The delivery estimate changes every day.,1,2026-09-27,Google Play,2.9.0,Canada,Premium
+REV-00115,The tracking map is not updating. Please fix this soon.,1,2026-09-16,Support Ticket,3.1.0,,New
+REV-00286,The final checkout price is higher than the listing price. I tried twice with the same result.,2,2026-08-14,Web,2.9.0,,Premium
+REV-00297,The new interface looks clean and is easy to navigate. I would recommend this to others.,3,2026-08-25,Support Ticket,2.9.0,Canada,Premium
+REV-00109,The app shuts down while I am browsing products.,2,2026-09-10,Apple App Store,2.9.0,USA,Premium
+REV-00117,My refund has not arrived after the failed transaction.,1,2026-09-18,Google Play,3.1.0,USA,Returning
+REV-00132,Payment failed during checkout even though my card works elsewhere.,2,2026-10-03,Support Ticket,,India,Returning
+REV-00399,The app shuts down while I am browsing products. It was really frustrating.,2,2026-09-28,Support Ticket,3.1.0,,Premium
+REV-00483,The new interface looks clean and is easy to navigate.,5,2026-08-07,Google Play,2.9.0,USA,Returning
+REV-00466,The tracking map is not updating.,2,2026-09-27,Support Ticket,,USA,
+REV-00119,After the latest update the app closes unexpectedly. Overall this needs attention.,1,2026-09-20,Apple App Store,2.9.0,USA,New
+REV-00494,Search results take several seconds to appear.,3,2026-08-18,Web,3.1.0,,Premium
+REV-00233,Support has not responded to my ticket for three days. I tried twice with the same result.,2,2026-08-29,Web,3.1.0,USA,Returning
+REV-00279,I love the accurate delivery tracking.,4,2026-08-07,Web,3.1.0,UK,
+REV-00338,Search results take several seconds to appear.,2,2026-10-05,Google Play,3.1.1,UK,New
+REV-00287,Opening notifications makes the app stop responding. This happened again today.,2,2026-08-15,Web,2.9.0,,New
+REV-00308,The courier never called before marking the package undeliverable. I am sharing this so the team can improve it.,2,2026-09-05,Support Ticket,,,Returning
+REV-00480,The app shuts down while I am browsing products. Please fix this soon.,2,2026-08-04,Google Play,,Canada,Premium
+REV-00396,I was transferred between agents without a resolution.,1,2026-09-25,Support Ticket,3.0.0,,
+REV-00107,Search results take several seconds to appear.,2,2026-09-08,Apple App Store,3.1.0,India,Returning
+REV-00358,The app is fast and easy to use.,4,2026-08-18,Web,2.9.0,India,Premium
+REV-00229,I was transferred between agents without a resolution. This happened again today.,1,2026-08-25,Google Play,,UK,Returning
+REV-00498,The courier never called before marking the package undeliverable. This happened again today.,2,,Google Play,3.1.1,Canada,Returning
+REV-00497,The app crashes whenever I open the order history.,2,2026-08-21,Web,,India,Returning
+REV-00070,Search results take several seconds to appear. This happened again today.,,2026-08-02,Support Ticket,3.1.0,Canada,Returning
+REV-00231,I keep getting logged out in the middle of a session.,,2026-08-27,Web,,Canada,Returning
+REV-00157,Customer service closed my case before fixing it. Overall this needs attention.,3,2026-08-21,Web,3.0.0,USA,Premium
+REV-00211,The product looks different from the pictures.,1,2026-08-07,Google Play,2.9.0,,
+REV-00294,The tracking map is not updating. This happened again today.,2,2026-08-22,Web,2.9.0,Canada,Returning
+REV-00161,The checkout page freezes after I tap Pay.,2,2026-08-25,Google Play,3.0.0,USA,Premium
+REV-00416,I love the accurate delivery tracking.,5,2026-08-08,Web,3.0.0,India,
+REV-00282,The coupon disappears when I apply it.,3,2026-08-10,Web,3.0.0,Canada,
+REV-00281,Customer support solved my problem quickly. Really impressed with the experience.,3,2026-08-09,Support Ticket,,UK,New
+REV-00444,The tracking map is not updating.,3,2026-09-05,Apple App Store,3.0.0,UK,New
+REV-00202,The coupon disappears when I apply it.,2,2026-10-05,Web,3.1.0,UK,New
+REV-00469,The final checkout price is higher than the listing price. I tried twice with the same result.,1,,Web,,USA,Premium
+REV-00360,Opening notifications makes the app stop responding.,1,2026-08-20,Web,3.1.1,Canada,Premium
+REV-00051,The discount code is rejected even though it is valid.,1,2026-09-20,Google Play,2.9.0,India,Returning
+REV-00356,The application freezes on the splash screen. It was really frustrating.,3,2026-08-16,Web,2.9.0,USA,Premium
+REV-00238,The app drains my battery faster than before.,2,2026-09-03,Google Play,,India,Premium
+REV-00002,The app crashes whenever I open the order history.,3,2026-08-02,Google Play,,UK,
+REV-00201,The chatbot keeps repeating the same unhelpful answer. I am sharing this so the team can improve it.,2,2026-10-04,Apple App Store,3.0.0,USA,Premium
+REV-00064,The application freezes on the splash screen. Overall this needs attention.,2,2026-10-03,Google Play,3.0.0,Canada,
+REV-00240,The app crashes whenever I open the order history.,2,2026-09-05,Web,3.1.1,Canada,New
+REV-00486,Customer support solved my problem quickly.,4,2026-08-10,Google Play,3.1.1,,New
+REV-00226,Scrolling through the catalog feels very laggy.,3,2026-08-22,Support Ticket,,UK,New
+REV-00219,Password reset sends me to an expired link. I noticed it after the recent update.,1,2026-08-15,Apple App Store,,Canada,Premium
+REV-00186,The checkout page freezes after I tap Pay.,1,2026-09-19,Support Ticket,3.0.0,,Premium
+REV-00050,The payment screen keeps loading without completing the order.,2,2026-09-19,Web,3.0.0,UK,Premium
+REV-00134,The application freezes on the splash screen. I am sharing this so the team can improve it.,1,2026-10-05,Support Ticket,,USA,Premium
+REV-00208,Delivery charges are shown only at the last step. Please fix this soon.,,,Google Play,2.9.0,Canada,
+REV-00077,Customer support solved my problem quickly.,4,2026-08-09,Google Play,,,New
+REV-00407,Payment succeeds only after several retries.,2,2026-10-06,Support Ticket,3.1.1,Canada,New
+REV-00010,I love the accurate delivery tracking.,4,2026-08-10,Support Ticket,,Canada,Returning
+REV-00332,Opening notifications makes the app stop responding.,2,2026-09-29,Google Play,,Canada,Returning
+REV-00215,Product pages take too long to load on mobile data.,2,2026-08-11,Apple App Store,3.1.0,India,New
+REV-00256,The coupon disappears when I apply it.,2,2026-09-21,Google Play,3.0.0,UK,Premium
+REV-00192,Delivery charges are shown only at the last step.,1,2026-09-25,Web,,UK,
+REV-00484,The payment screen keeps loading without completing the order.,,2026-08-08,Google Play,3.1.0,Canada,Returning
+REV-00367,The application freezes on the splash screen. I am sharing this so the team can improve it.,2,2026-08-27,Support Ticket,3.1.1,USA,
+REV-00230,The discount code is rejected even though it is valid.,2,2026-08-26,Support Ticket,3.1.0,Canada,Premium
+REV-00043,The tracking map is not updating.,3,2026-09-12,Google Play,2.9.0,USA,New
+REV-00159,The tracking map is not updating.,2,2026-08-23,Apple App Store,2.9.0,UK,
+REV-00060,The tracking map is not updating.,1,2026-09-29,Google Play,3.0.0,India,Returning
+REV-00445,Delivery charges are shown only at the last step. Overall this needs attention.,3,2026-09-06,Web,2.9.0,India,Premium
+REV-00419,Support has not responded to my ticket for three days.,2,2026-08-11,Apple App Store,3.1.0,UK,
+REV-00458,The app shuts down while I am browsing products. It was really frustrating.,1,2026-09-19,Google Play,3.1.1,Canada,Returning
+REV-00151,Tracking says delivered but I have not received anything.,1,2026-08-15,Support Ticket,3.0.0,India,Premium
+REV-00137,Product pages take too long to load on mobile data.,1,2026-08-01,Web,3.1.1,Canada,Returning
+REV-00128,The final checkout price is higher than the listing price.,1,2026-09-29,Support Ticket,2.9.0,USA,Premium
+REV-00257,Tracking says delivered but I have not received anything.,1,2026-09-22,Support Ticket,3.1.1,Canada,
+REV-00156,Customer support solved my problem quickly. Really impressed with the experience.,5,2026-08-20,Apple App Store,3.1.0,,Premium
+REV-00423,The chatbot keeps repeating the same unhelpful answer. Overall this needs attention.,1,2026-08-15,Support Ticket,2.9.0,USA,New
+REV-00432,Product pages take too long to load on mobile data. I noticed it after the recent update.,3,2026-08-24,Apple App Store,,India,
+REV-00255,The app drains my battery faster than before.,1,2026-09-20,Web,,India,
+REV-00413,My refund was processed much faster than expected.,5,2026-08-05,Support Ticket,3.1.1,Canada,New
+REV-00158,After the latest update the app closes unexpectedly.,1,2026-08-22,Web,3.1.0,UK,
+REV-00351,I keep getting logged out in the middle of a session. Please fix this soon.,1,2026-08-11,Apple App Store,3.1.0,Canada,
+REV-00135,The payment screen keeps loading without completing the order.,2,2026-10-06,Apple App Store,2.9.0,India,New
+REV-00347,The item I received was damaged inside the box.,2,2026-08-07,Apple App Store,3.0.0,India,Returning
+REV-00473,The checkout page freezes after I tap Pay.,2,2026-10-04,Apple App Store,3.1.1,,New
+REV-00166,The discount code is rejected even though it is valid. This happened again today.,2,2026-08-30,Google Play,,Canada,New
+REV-00376,My package arrived four days later than promised.,1,2026-09-05,Support Ticket,,,Returning
+REV-00305,Scrolling through the catalog feels very laggy.,1,2026-09-02,Apple App Store,3.1.0,Canada,
+REV-00013,The search feature helps me find products quickly. I would recommend this to others.,3,2026-08-13,Web,2.9.0,India,
+REV-00130,Opening notifications makes the app stop responding.,1,2026-10-01,Apple App Store,2.9.0,Canada,Returning
+REV-00448,The support agent was polite but could not solve my issue.,1,2026-09-09,Support Ticket,3.1.0,India,Returning
+REV-00366,The discount code is rejected even though it is valid.,2,2026-08-26,Google Play,3.0.0,UK,Premium
+REV-00299,The new interface looks clean and is easy to navigate.,4,2026-08-27,Apple App Store,,,New
+REV-00481,Push notifications stopped working after the update. I am sharing this so the team can improve it.,3,2026-08-05,Google Play,2.9.0,USA,Premium
+REV-00390,The app crashes whenever I open the order history.,1,2026-09-19,Support Ticket,2.9.0,,Premium
+REV-00041,The tracking map is not updating.,5,2026-09-10,Google Play,3.1.1,USA,Returning
+REV-00357,Push notifications stopped working after the update. I tried twice with the same result.,2,2026-08-17,Web,3.1.1,USA,Returning
+REV-00199,Important order alerts arrive hours late.,2,2026-10-02,Apple App Store,3.1.1,USA,Returning
+REV-00085,Important order alerts arrive hours late. Overall this needs attention.,1,2026-08-17,Web,3.1.1,USA,Premium
+REV-00237,The chatbot keeps repeating the same unhelpful answer. I noticed it after the recent update.,1,,Web,2.9.0,USA,Premium
+REV-00138,My refund was processed much faster than expected.,4,2026-08-02,Web,3.0.0,USA,Premium
+REV-00411,Password reset sends me to an expired link. I tried twice with the same result.,2,,Apple App Store,3.1.1,UK,
+REV-00398,The checkout page freezes after I tap Pay.,1,2026-09-27,Apple App Store,2.9.0,,New
+REV-00435,I keep getting logged out in the middle of a session. It was really frustrating.,1,2026-08-27,Support Ticket,3.1.1,USA,Returning
+REV-00096,The item I received was damaged inside the box.,2,2026-08-28,Web,3.0.0,USA,
+REV-00365,The support agent was polite but could not solve my issue.,2,2026-08-25,Support Ticket,3.1.1,Canada,
+REV-00122,The payment screen keeps loading without completing the order.,2,2026-09-23,Web,3.1.1,USA,New
+REV-00059,Face unlock no longer works after the update.,1,2026-09-28,Apple App Store,3.1.1,,Premium
+REV-00370,The new interface looks clean and is easy to navigate.,4,2026-08-30,Google Play,3.1.1,USA,Premium
+REV-00205,The OTP never arrives when I try to log in. This happened again today.,1,2026-08-01,Google Play,2.9.0,UK,
+REV-00037,The tracking map is not updating.,3,2026-09-06,Google Play,,India,Premium
+REV-00239,The chatbot keeps repeating the same unhelpful answer.,1,2026-09-04,Support Ticket,3.1.0,Canada,Returning
+REV-00113,Opening notifications makes the app stop responding. Overall this needs attention.,2,2026-09-14,Apple App Store,3.0.0,USA,Returning
+REV-00048,Delivery charges are shown only at the last step.,1,2026-09-17,Support Ticket,3.1.1,,Returning
+REV-00040,The tracking map is not updating.,1,2026-09-09,Google Play,3.0.0,UK,
+REV-00334,Support has not responded to my ticket for three days. I noticed it after the recent update.,2,2026-10-01,Apple App Store,2.9.0,USA,
+REV-00426,Payment succeeds only after several retries.,2,2026-08-18,Google Play,3.1.1,Canada,Premium
+REV-00143,The new interface looks clean and is easy to navigate.,4,2026-08-07,Support Ticket,,Canada,Returning
+REV-00098,Money was deducted but the order never appeared.,1,2026-08-30,Google Play,3.1.1,USA,Premium
+REV-00377,Password reset sends me to an expired link.,2,2026-09-06,Support Ticket,,Canada,Premium
+REV-00075,Important order alerts arrive hours late. This happened again today.,2,2026-08-07,Web,3.0.0,India,Returning
+REV-00124,Search results take several seconds to appear.,2,2026-09-25,Support Ticket,2.9.0,India,
+REV-00437,Password reset sends me to an expired link.,1,2026-08-29,Google Play,3.1.1,,New
+REV-00217,The checkout page freezes after I tap Pay. Overall this needs attention.,2,2026-08-13,Web,3.1.0,,
+REV-00183,The payment screen keeps loading without completing the order.,2,2026-09-16,Support Ticket,3.1.0,,Premium
+REV-00022,My refund has not arrived after the failed transaction. It was really frustrating.,2,2026-08-22,Web,2.9.0,UK,Premium
+REV-00393,Payment failed during checkout even though my card works elsewhere. It was really frustrating.,1,2026-09-22,Support Ticket,2.9.0,USA,Returning
+REV-00076,My refund has not arrived after the failed transaction.,2,2026-08-08,Support Ticket,3.1.1,Canada,Premium
+REV-00302,Customer support solved my problem quickly.,5,2026-08-30,Support Ticket,,India,
+REV-00234,Important order alerts arrive hours late. Please fix this soon.,1,2026-08-30,Web,3.1.1,,New
+REV-00068,The payment screen keeps loading without completing the order.,3,2026-10-07,Google Play,3.1.1,USA,New
+REV-00440,My package arrived four days later than promised.,1,,Support Ticket,3.0.0,UK,Premium
+REV-00280,Password reset sends me to an expired link.,2,2026-08-08,Apple App Store,3.0.0,UK,New
+REV-00317,The discount code is rejected even though it is valid. Please fix this soon.,1,2026-09-14,Google Play,,India,
+REV-00361,Customer service closed my case before fixing it. I tried twice with the same result.,2,2026-08-21,Google Play,3.1.0,USA,New
+REV-00420,The app shuts down while I am browsing products.,3,2026-08-12,Web,,,New
